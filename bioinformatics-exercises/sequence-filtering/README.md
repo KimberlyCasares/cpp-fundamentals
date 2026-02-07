@@ -11,10 +11,10 @@ This program implements file-based processing of biological sequence data in C++
 - Command-line oriented scientific tooling
 
 ## Files
-- `6_sequence_filtering.cpp` — main C++ program
-- `example_input.txt` — sample input dataset
+- `8_sequence_filtering.cpp` — main C++ program
+- `THA08-SampleInput10.txt` — sample input dataset
 
 ## Build & Run
 ```bash
-g++ -std=c++17 sequence_filter.cpp -o sequence_filter
+g++ -std=c++17 8_sequence_filtering.cpp -o sequence_filter
 ./sequence_filter example_input.txt
