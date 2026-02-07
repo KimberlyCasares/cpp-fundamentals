@@ -1,4 +1,4 @@
-/* homework assignment 6 
+/* exercise 6 
 written by Kimberly Casares */ 
 
 #include <iostream>
